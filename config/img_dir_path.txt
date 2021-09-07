@@ -1,0 +1,1 @@
+/home/park/dev/ROBOCUP/robocup2021/heroehs_cup/robocup_2021_segmentation_data

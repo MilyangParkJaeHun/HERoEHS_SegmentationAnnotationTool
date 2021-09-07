@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+9b610f90c6d32873c6087f503a89ad6d CMakeFiles/InstanceSegmentationAnnotationTool_autogen
+bef9810f6ac62d8f1b587a21acb9ad49 qrc_InstanceSegmentationAnnotationTool.cpp
+c9e2216b8d3cf709f7a062151521a610 ui_InstanceSegmentationAnnotationTool.h
