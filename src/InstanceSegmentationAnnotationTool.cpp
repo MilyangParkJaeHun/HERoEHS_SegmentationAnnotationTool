@@ -644,7 +644,7 @@ void MainWindow::init()
     ui->checkBox_manual_mask->setChecked(true);
     ui->checkBox_watershed_mask->setChecked(true);
 
-    QImage logo = QImage(":/logo2");
+    QImage logo = QImage(":/logo");
     ui->label_img_display->setPixmap(QPixmap::fromImage(logo));
 
     _class_file_path = file_read(_class_config_file);

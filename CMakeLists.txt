@@ -44,7 +44,7 @@ add_executable(InstanceSegmentationAnnotationTool MACOSX_BUNDLE WIN32
 	src/main.cpp
 	${UI_HEADER}
 	${RESOURCE_FILE}
-	GUI/KITECH.rc)
+	GUI/HERoEHS.rc)
 
 target_link_libraries(InstanceSegmentationAnnotationTool Qt5::Gui Qt5::Widgets ${OpenCV_LIBS})	
 
