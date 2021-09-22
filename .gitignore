@@ -5,6 +5,11 @@ HERoEHS_SegmentationAnnotationTool_autogen/
 CMakeFiles/
 Makefile
 
+#ignore files created after compiling
+qrc_HERoEHS_SegmentationAnnotationTool.cpp
+ui_HERoEHS_SegmentationAnnotationTool.h
+HERoEHS_SegmentationAnnotationTool
+
 #ignore Demo jpg, mask, dat file
 *.jpg
 *.mask
