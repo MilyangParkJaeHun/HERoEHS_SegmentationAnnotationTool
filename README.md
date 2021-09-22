@@ -105,6 +105,7 @@ By ParkJaeHun
 <img src=https://user-images.githubusercontent.com/22341340/134409023-a4140bc5-87fa-4600-90b6-17985d256ff6.gif width="800" height="500">
 </p>
 6. Save mask.
+
 	- Click "Watershed" button to run watershed algorithm.
 	- Click "Save" to save labeling.
 <p align="center">
