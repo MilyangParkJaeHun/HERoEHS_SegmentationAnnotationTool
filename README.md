@@ -70,7 +70,7 @@ By ParkJaeHun
 ## How to use
 1. 원하는 클래스의 인스턴스 생성
 <p align="center">
-<img src=https://user-images.githubusercontent.com/22341340/134408987-f772889a-d860-4f55-b4da-1c660c27e661.gif width="400" height="200">
+<img src=https://user-images.githubusercontent.com/22341340/134408987-f772889a-d860-4f55-b4da-1c660c27e661.gif width="800" height="500">
 </p>
 2. hsv filter 를 조절하여 인스턴스만 보이게 조절
 <p align="center">
