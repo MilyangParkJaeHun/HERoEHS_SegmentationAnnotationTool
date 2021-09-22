@@ -4,9 +4,9 @@ CMakeFiles/*
 cmake_install.cmake
 
 #ignore Demo jpg, mask, dat file
-Demo/*.jpg
-Demo/*.mask
-Demo/*.dat
+*.jpg
+*.mask
+*.dat
 
 #ignore autogen
 InstanceSegmentationAnnotationTool_autogen/
