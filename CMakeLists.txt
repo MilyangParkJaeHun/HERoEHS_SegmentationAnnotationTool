@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.1.0)
 
-project(InstanceSegmentationAnnotationTool)
+project(HERoEHS_SegmentationAnnotationTool)
 
 if(UNIX)
 	set(CMAKE_CXX_STANDARD 17)
@@ -31,12 +31,12 @@ find_package(OpenCV REQUIRED)
 
 include_directories(${CMAKE_CURRENT_BINARY_DIR} ${OpenCV_INCLUDE_DIRS})
 
-qt5_wrap_ui(UI_HEADER GUI/InstanceSegmentationAnnotationTool.ui )
-qt5_add_resources(RESOURCE_FILE GUI/InstanceSegmentationAnnotationTool.qrc)
+qt5_wrap_ui(UI_HEADER GUI/HERoEHS_SegmentationAnnotationTool.ui )
+qt5_add_resources(RESOURCE_FILE GUI/HERoEHS_SegmentationAnnotationTool.qrc)
 INCLUDE_DIRECTORIES( include )
-add_executable(InstanceSegmentationAnnotationTool MACOSX_BUNDLE WIN32
-    src/InstanceSegmentationAnnotationTool.cpp
-	include/InstanceSegmentationAnnotationTool.h
+add_executable(HERoEHS_SegmentationAnnotationTool MACOSX_BUNDLE WIN32
+    src/HERoEHS_SegmentationAnnotationTool.cpp
+	include/HERoEHS_SegmentationAnnotationTool.h
     src/ISAT.cpp
 	include/ISAT.h
 	src/utils.cpp
@@ -46,6 +46,6 @@ add_executable(InstanceSegmentationAnnotationTool MACOSX_BUNDLE WIN32
 	${RESOURCE_FILE}
 	GUI/HERoEHS.rc)
 
-target_link_libraries(InstanceSegmentationAnnotationTool Qt5::Gui Qt5::Widgets ${OpenCV_LIBS})	
+target_link_libraries(HERoEHS_SegmentationAnnotationTool Qt5::Gui Qt5::Widgets ${OpenCV_LIBS})	
 
 set(OpenCV_BIN ${OpenCV_LIB_PATH}/../bin)

@@ -1,4 +1,4 @@
-#include "InstanceSegmentationAnnotationTool.h"
+#include "HERoEHS_SegmentationAnnotationTool.h"
 #include <QtWidgets/QApplication>
 #include <locale>
 

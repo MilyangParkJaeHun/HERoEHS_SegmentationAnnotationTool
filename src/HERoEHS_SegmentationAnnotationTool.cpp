@@ -1,4 +1,4 @@
-#include "InstanceSegmentationAnnotationTool.h"
+#include "HERoEHS_SegmentationAnnotationTool.h"
 #include <iostream>
 
 MainWindow::MainWindow(QWidget *parent)

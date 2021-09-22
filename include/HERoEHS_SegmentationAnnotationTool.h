@@ -6,7 +6,7 @@
 #include <QtWidgets>
 #include <QShortcut>
 #include <QKeyEvent>
-#include "ui_InstanceSegmentationAnnotationTool.h"
+#include "ui_HERoEHS_SegmentationAnnotationTool.h"
 
 #include "utils.h"
 #include "ISAT.h"
