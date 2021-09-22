@@ -1,7 +1,7 @@
 #ignore CMake cache
 CMakeCache.txt
 cmake_install.cmake
-InstanceSegmentationAnnotationTool_autogen/
+HERoEHS_SegmentationAnnotationTool_autogen/
 CMakeFiles/
 Makefile
 
