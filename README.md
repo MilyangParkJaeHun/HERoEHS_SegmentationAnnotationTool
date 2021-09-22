@@ -69,10 +69,39 @@ By ParkJaeHun
 
 ## How to use
 1. 원하는 클래스의 인스턴스 생성
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134408987-f772889a-d860-4f55-b4da-1c660c27e661.gif width="400" height="200">
+</p>
 2. hsv filter 를 조절하여 인스턴스만 보이게 조절
-<div align="center">
-<img width="612" alt="0-2" src="https://user-images.githubusercontent.com/54341546/104527896-3531f580-5649-11eb-855e-477d844c148e.PNG">
-<div align="left">
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134408994-def351a5-470c-4847-aa72-05cf8ac394e0.gif width="400" height="200">
+<img src=https://user-images.githubusercontent.com/22341340/134409004-a33831ff-0ce4-4603-9263-eef3bc9c867a.gif width="400" height="200">
+</p>
+3. hsv filter 로 그려지지 못한 부분 수동으로 그려주기
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134409013-92e572d2-838f-4518-887d-7e7cf31aff17.gif width="400" height="200">
+</p>
+4. 채우기 기능으로 빈 부분 채워주기
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134409019-ed96f044-514a-4ae0-952b-64a07c17895a.gif width="400" height="200">
+<img src=https://user-images.githubusercontent.com/22341340/134409022-57c82e2c-bc1f-449e-a89b-5e354437f500.gif width="400" height="200">
+</p>
+5. 백그라운드 그려주기
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134409023-a4140bc5-87fa-4600-90b6-17985d256ff6.gif width="400" height="200">
+</p>
+6. 저장하기
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134409029-a64acb94-cf76-4c9e-9cef-b4b093fe413a.gif width="400" height="200">
+</p>
+7. 저장 결과
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134409030-fa273308-9d10-4b14-ad7a-f6baf2272a78.gif width="400" height="200">
+</p>
+8. 다음 사진
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134409818-749ab876-7e89-40d1-95bf-b784f699dda6.gif width="400" height="200">
+</p>
 	
 ## Reference
 - https://github.com/MilyangParkJaeHun/InstanceSegmentationAnnotationTool.git
