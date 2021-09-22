@@ -7,3 +7,6 @@ cmake_install.cmake
 Demo/*.jpg
 Demo/*.mask
 Demo/*.dat
+
+#ignore autogen
+InstanceSegmentationAnnotationTool_autogen/
