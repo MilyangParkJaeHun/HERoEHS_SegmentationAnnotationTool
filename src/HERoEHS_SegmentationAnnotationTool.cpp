@@ -1,3 +1,9 @@
+/**
+ * @file HERoEHS_SegmentationAnnotationTool.cpp
+ * @author Park Jaehun
+ * @brief For interact with display interface.
+ */
+ 
 #include "HERoEHS_SegmentationAnnotationTool.h"
 #include <iostream>
 

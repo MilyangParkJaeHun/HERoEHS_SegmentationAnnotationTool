@@ -1,3 +1,9 @@
+/**
+ * @file HSAT.cpp
+ * @author Park Jaehun
+ * @brief Functions required for labeling (draw, hsv_filter, ...).
+ */
+
 #include "HSAT.h"
 
 #include <QDebug>
