@@ -9,7 +9,7 @@ This tool was developed to collect training data for the segmentation model to b
 By ParkJaeHun
 
 ## Build Environments
-- Ubuntu 18.04
+- Ubuntu 20.04
 - CMake 3.16.3
 - Opencv 4.2.0
 - QT 5.12.8
