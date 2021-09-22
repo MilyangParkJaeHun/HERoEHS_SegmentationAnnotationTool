@@ -9,3 +9,8 @@ Makefile
 *.jpg
 *.mask
 *.dat
+
+#not ignore
+!config/class_file_path.txt
+!config/img_dir_path.txt
+!CMakeLists.txt
