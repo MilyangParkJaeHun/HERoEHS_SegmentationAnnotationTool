@@ -5,8 +5,8 @@ project(InstanceSegmentationAnnotationTool)
 if(UNIX)
 	set(CMAKE_CXX_STANDARD 17)
 endif()
-set(QT5_DIR "/home/park/Qt5.12.9/5.12.9/gcc_64/lib/cmake" CACHE STRING "Additional search paths for QT5")
-set(OpenCV_DIR "/home/park/opencv/opencv-3.4.6/build")
+set(QT5_DIR "/usr/lib/x86_64-linux-gnu/cmake" CACHE STRING "Additional search paths for QT5")
+set(OpenCV_DIR "/opencv/opencv-4.2.0/build")
 
 set(CMAKE_AUTOMOC ON)
 
