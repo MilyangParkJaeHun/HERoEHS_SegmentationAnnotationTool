@@ -2,6 +2,10 @@
 HERoEHS_SegmentationAnnotationTool supports HSV filter for masking a wide area such as soccer field.  
 This tool was developed to collect training data for the segmentation model to be used in RoboCup.
 
+<p align="center">
+<img src=https://user-images.githubusercontent.com/22341340/134415350-c6944676-ee50-4a09-a359-4a7043d1aa04.png width="800" height="500">
+</p>
+
 By ParkJaeHun
 
 ## Build Environments
@@ -120,6 +124,7 @@ By ParkJaeHun
 </p>
 	
 ## Reference
+This tool was developed based on [InstanceSegmentationAnnotationTool](https://github.com/KITECH-AI-LAB/InstanceSegmentationAnnotationTool.git).
 - https://github.com/KITECH-AI-LAB/InstanceSegmentationAnnotationTool.git
 - https://github.com/abreheret/PixelAnnotationTool
 - https://github.com/developer0hye/Yolo_Label
