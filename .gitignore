@@ -1,12 +1,11 @@
 #ignore CMake cache
 CMakeCache.txt
-CMakeFiles/*
 cmake_install.cmake
+InstanceSegmentationAnnotationTool_autogen/
+CMakeFiles/
+Makefile
 
 #ignore Demo jpg, mask, dat file
 *.jpg
 *.mask
 *.dat
-
-#ignore autogen
-InstanceSegmentationAnnotationTool_autogen/
