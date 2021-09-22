@@ -851,7 +851,7 @@ border-color: rgb(208, 206, 206);</string>
  </widget>
  <layoutdefault spacing="6" margin="11"/>
  <resources>
-  <include location="InstanceSegmentationAnnotationTool.qrc"/>
+  <include location="HERoEHS_SegmentationAnnotationTool.qrc"/>
  </resources>
  <connections/>
 </ui>
