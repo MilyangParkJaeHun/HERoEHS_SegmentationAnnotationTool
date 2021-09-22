@@ -9,7 +9,7 @@
 #include "ui_HERoEHS_SegmentationAnnotationTool.h"
 
 #include "utils.h"
-#include "ISAT.h"
+#include "HSAT.h"
 
 struct init_param {
     bool is_set_dir;

@@ -37,8 +37,8 @@ INCLUDE_DIRECTORIES( include )
 add_executable(HERoEHS_SegmentationAnnotationTool MACOSX_BUNDLE WIN32
     src/HERoEHS_SegmentationAnnotationTool.cpp
 	include/HERoEHS_SegmentationAnnotationTool.h
-    src/ISAT.cpp
-	include/ISAT.h
+    src/HSAT.cpp
+	include/HSAT.h
 	src/utils.cpp
 	include/utils.h
 	src/main.cpp

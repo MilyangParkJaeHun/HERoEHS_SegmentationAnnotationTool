@@ -1,4 +1,4 @@
-#include "ISAT.h"
+#include "HSAT.h"
 
 #include <QDebug>
 
@@ -299,7 +299,6 @@ void ISAT::draw(QMouseEvent *e, QRect size)
 
 void ISAT::run_bfs(int y, int x, cv::Mat id_mat, ColorMask cm)
 {
-    std::cout << "run_bfs" << std::endl;
     std::queue<std::pair<int, int> > q;
     int img_width = _inputImg_size.width;
     int img_height = _inputImg_size.height;
