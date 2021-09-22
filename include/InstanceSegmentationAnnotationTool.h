@@ -87,6 +87,6 @@ protected:
 public:
     std::string _class_file_path;
     std::string _img_dir_path;
-    std::string _class_config_file = "/home/park/dev/ROBOCUP/robocup2021/InstanceSegmentationAnnotationTool/config/class_file_path.txt";
-    std::string _img_dir_config_file = "/home/park/dev/ROBOCUP/robocup2021/InstanceSegmentationAnnotationTool/config/img_dir_path.txt";
+    std::string _class_config_file = "config/class_file_path.txt";
+    std::string _img_dir_config_file = "config/img_dir_path.txt";
 };

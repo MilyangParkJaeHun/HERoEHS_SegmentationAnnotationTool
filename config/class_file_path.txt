@@ -1,1 +1,1 @@
-/home/park/Desktop/obj.names
+Demo/obj.names
