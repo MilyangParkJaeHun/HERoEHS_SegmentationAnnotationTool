@@ -32,17 +32,17 @@ By ParkJaeHun
 ## Demo Run
 1. Downloads demo data.
 	```
-	$ cd /path/to/repo/Demo
+	$ cd /path/to/HERoEHS_SegmentationAnnotationTool/Demo
 	$ source data_downloads.sh
 	```
 2. Edit configuration files.
 	- class_file_path.txt : where the obj.names file exists  
 		```
-		$ vi /path/to/repo/config/obj.names
+		$ vi /path/to/HERoEHS_SegmentationAnnotationTool/config/obj.names
 		```
 	- img_dir_paht.txt : where the image file resides  
 		```
-		$ vi /path/to/repo/config/img_dir_path.txt
+		$ vi /path/to/HERoEHS_SegmentationAnnotationTool/config/img_dir_path.txt
 		```
 	- obj.names : object name list to recognize  
 		```
