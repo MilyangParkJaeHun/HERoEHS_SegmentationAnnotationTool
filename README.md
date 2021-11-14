@@ -12,7 +12,7 @@ By ParkJaeHun
 - Ubuntu 20.04
 - CMake 3.16.3
 - Opencv 4.2.0
-- QT 5.12.8
+- Qt 5.12.8
 
 ## Build on Linux
 1. Edit CMakeList.txt to set Qt and Opencv path (8-9 lines)
